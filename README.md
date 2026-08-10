@@ -1,4 +1,4 @@
-# Novel--Backstory Consistency Classification
+# Novel Backstory Consistency Classification
 
 **BDH-Inspired Persistent State Architecture for Long-Context Narrative
 Reasoning**
