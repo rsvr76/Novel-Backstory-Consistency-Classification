@@ -71,19 +71,19 @@ Character Narrative State
 Backstory Encoding       Evidence Retrieval
     │                          │
     └────────────┬─────────────┘
-                 ▼
+                   ▼
        Hybrid Compatibility
             Classification
-                 │
+                  │
         ┌────────┴────────┐
-        ▼                 ▼
+        ▼                   ▼
  Neural Scoring      Rule-Based Signals
-        │                 │
+        │                    │
         └────────┬────────┘
-                 ▼
+                  ▼
         Final Prediction
         ┌────────┴────────┐
-        ▼                 ▼
+        ▼                   ▼
    1 = Consistent   0 = Contradictory
 ```
 <br>
