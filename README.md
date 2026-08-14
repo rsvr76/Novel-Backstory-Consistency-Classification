@@ -65,11 +65,11 @@ BDH-Inspired Persistent State
     ▼
 Character Narrative State
     │
-    ├──────────────────────────┐
-    │                          │
-    ▼                          ▼
+    ├──────────────────────────
+    │                              │
+    ▼                             ▼
 Backstory Encoding       Evidence Retrieval
-    │                          │
+    │                              │
     └────────────┬─────────────┘
                    ▼
        Hybrid Compatibility
